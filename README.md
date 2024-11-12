@@ -55,3 +55,7 @@ The idea of "Green Algeria Project" is a fantastic initiative with great potenti
 - Ways for interested companies to participate by donating or providing logistical support.
 
 These features can help make the website a comprehensive and effective resource to support the "Green Algeria Project" and to raise awareness and public involvement in achieving Algeria’s environmental and development goals.
+
+### 11. TODO list
+
+-[ ] get an svg logo & animate it. -[ ] struct the website. -[ ] get good design & and populate it with mock assets. -[ ] add animation with GSAP. -[ ] prepare for backend for marketing module.
