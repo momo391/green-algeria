@@ -58,4 +58,8 @@ These features can help make the website a comprehensive and effective resource 
 
 ### 11. TODO list
 
--[ ] get an svg logo & animate it. -[ ] struct the website. -[ ] get good design & and populate it with mock assets. -[ ] add animation with GSAP. -[ ] prepare for backend for marketing module.
+- [ ] Get an svg logo & animate it.
+- [ ] Struct the website.
+- [ ] Get good design & and populate it with mock assets.
+- [ ] Add animation with GSAP.
+- [ ] Prepare for backend for marketing module.
